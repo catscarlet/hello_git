@@ -1,6 +1,2 @@
 # hello_git
-Only for git and github study . May GIT be with you.
-
-
-
-No use for 
+Only for programming and git study . May GIT be with you.
